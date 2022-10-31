@@ -10,8 +10,10 @@ macOS 10.15.7
 ## Solution
 Execute code
 
-`brew link python3`
-`pip3 install requests`
+```
+brew link python3
+pip3 install requests
+```
 
 Cause Analysis
 I guess i has two different python version in my system, One is the system and other is brew install.

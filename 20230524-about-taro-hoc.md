@@ -39,7 +39,7 @@ function demoComponent(WrappedComponent) {
 
 以上 issue 的回复
 
-奈何我项目没升级 Taro 3，在 Taro 2 里有一些 React 的 API 并没有实现，就正如我项目这个版本 v2.0.5 版本没有 forwardRef，还有就是 Taro 2 在热更新上经常项目大一点的时候就经常爆栈，
+奈何我项目没升级 Taro 3，在 Taro 2 里有一些 React 的 API 并没有实现，就正如我项目这个版本 v2.x 版本没有 forwardRef，还有就是 Taro 2 在热更新上经常项目大一点的时候就经常爆栈，
 ``Maximum call stack size exceeded``
 貌似 Taro 3 没这个问题。
 
